@@ -1,3 +1,12 @@
+This is my assignment one for wordpress. 
+theme called - assignment one 
+with home page
+3 posts and 3 categories with hheader and footer templates 
+
+
+
+
+
 === Twenty Twenty-One ===
 Contributors: wordpressdotorg
 Requires at least: 5.3
